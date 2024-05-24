@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "category": "party",
+    "question": "that refills fancy bottles with cheap alcohol?"
+  },
+  {
+    "id": 1,
+    "category": "party",
+    "question": "that drinks water inbetween drinks?"
+  },
+  {
+    "id": 2,
+    "category": "party",
+    "question": "likes apples?"
+  },
+  {
+    "id": 3,
+    "category": "party",
+    "question": "that can't part after midnight?"
+  },
+  {
+    "id": 4,
+    "category": "party",
+    "question": "who refuses to get somehwere if I need to queue?"
+  },
+  {
+    "id": 5,
+    "category": "party",
+    "question": "that wears Crocs to the pub?"
+  },
+  {
+    "id": 6,
+    "category": "party",
+    "question": "that carryes nuts in the pockets when goes out?"
+  },
+  {
+    "id": 7,
+    "category": "party",
+    "question": "that farts on the dancefloor?"
+  },
+  {
+    "id": 8,
+    "category": "party",
+    "question": "who only showers if I have a date?"
+  },
+  {
+    "id": 9,
+    "category": "party",
+    "question": "that has an official date outfit?"
+  }
+]

@@ -1,16 +1,32 @@
 <html lang="en">
-<base href="/" />
+  <base href="/" />
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- <link rel="stylesheet" href="/style.css"> -->
     <title>Is It Only Me?</title>
-</head>
+  </head>
+  <style>
+    .card {
+      background-color: rgb(215, 215, 215);
+      color: black;
+      border-radius: 1rem;
+      padding: 1rem;
+      margin: 1rem;
+    }
+  </style>
 
-<body>
-
-</body>
-
+  <body>
+    <button class="btn" id="removeButton">Remove</button>
+    <button id="addButton">Add Card</button>
+    <button id="addMixed">Mixed</button>
+    <button id="addDate">Date</button>
+    <button id="addParty">Party</button>
+    <button id="addSpicy">Spicy</button>
+    <section>
+      <div class="card-stack" id="cardStack"></div>
+    </section>
+  </body>
 </html>

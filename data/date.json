@@ -1,0 +1,53 @@
+[
+  {
+    "id": 0,
+    "category": "date",
+    "question": " 1. who likes awkward dates?"
+  },
+  {
+    "id": 1,
+    "category": "date",
+    "question": "2. that is dating?"
+  },
+  {
+    "id": 2,
+    "category": "date",
+    "question": "3. likes apples?"
+  },
+  {
+    "id": 3,
+    "category": "date",
+    "question": "4. that wants to get married?"
+  },
+  {
+    "id": 4,
+    "category": "date",
+    "question": "5. prefers cats to humans?"
+  },
+  {
+    "id": 5,
+    "category": "date",
+    "question": "6. that dates aliens?"
+  },
+  {
+    "id": 6,
+    "category": "date",
+    "question": "7. who is a stalker?"
+  },
+  {
+    "id": 7,
+    "category": "date",
+    "question": "8. that hates Tinder?"
+  },
+  {
+    "id": 8,
+    "category": "date",
+    "question": "9. who only showers if I have a date?"
+  },
+  {
+    "id": 9,
+    "category": "date",
+    "question": "10. that has an official date outfit?"
+  }
+ 
+]
