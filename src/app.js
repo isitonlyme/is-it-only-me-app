@@ -12,6 +12,9 @@ const categoryMap = {
   spicy: spicyData,
 };
 
+// ------------------------------------------------------------
+// Creating a card in HTML and adds the question and category as text
+// ------------------------------------------------------------
 function chooseCategory(category) {
   if (category === "mixed") {
     //add everything from the json files into the empty data array
@@ -76,6 +79,7 @@ function removeCard() {
   if (cardStack.childElementCount > 0) {
     cardStack.removeChild(cardStack.firstChild);
   }
+  // error message if cardstack is empty
 }
 
 // ------------------------------------------------------------
